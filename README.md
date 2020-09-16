@@ -25,3 +25,9 @@ Then add the PORT. You can give any PORT number
 set LPORT <Your PORT>
 ```
 And now I have written ``` exploit``` to exploit the payload.
+
+## Run Automate Script
+
+For running the automate script you need to type ```msfconsole``` as usual. THen after Msfconsole loaded type ```resource <location of the file>```. Here inthe place of 
+```<location of the file>``` type the file locatio with file name.
+## Happy Hacking
