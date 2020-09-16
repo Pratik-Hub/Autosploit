@@ -1,1 +1,3 @@
 # Autosploit
+
+This is a script that allows you to automate Metasploit using simple process.....
